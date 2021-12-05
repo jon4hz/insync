@@ -1,6 +1,6 @@
 # insync
 
-Get telegram notifications if your geth nodes looses sync 
+Get telegram notifications if your geth node looses sync 
 
 # environment variables
 - GETH_URL = the url of your node
